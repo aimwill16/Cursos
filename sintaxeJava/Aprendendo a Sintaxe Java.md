@@ -3,6 +3,7 @@
 ### Seus tópicos são:
 - Anatomia das Classes
 - Tipos e Variáveis
+- Operadores
 
 
 
@@ -65,4 +66,36 @@ final tipo MAISCULO = VALOR;
 //Exemplo
 final float NUMERO_PI = 3.14F;  // o F é necessário, pois demonstra que o número é um float.
 
+#### Operadores
+
+
+--  Relacionais
+    
+    Atribuição " = "
+    É igual a " == "
+    Diferente " != "
+    Maior " > "
+    Menor " < "
+    Maior/Menor ou igual " >= "  " <= "
+
+-- Aritiméticos
+    
+    Adição " + " (* Serve para concatenar textos também)
+    Subtração " - "
+    Multiplicação " * "
+    Divisão " / "
+
+-- Unários
+
+    (+) Operador unário de valor positivo (facultativo, todo e qualquer número sem operador já é um numero positivo, por exemplo.
+    (-) Operador unário de valor negativo. Altera o valor do numeral para negativo.
+    (++) Operador de incremento. Incrementa mais um ao valor.
+    (--) Operador de decremento. Retira um ao valor.
+    (!) Operador de negação, usado em operadores booleanos.
+
+-- S
+ 
+
+- 
+- 
 
