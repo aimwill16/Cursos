@@ -1,0 +1,16 @@
+O conteúdo desse plano de estudos está dividido nas seguintes categorias de competências:
+
+    Lógica de Programação
+    HTML e CSS
+    Git e GitHub
+    Java básico e orientação a objetos
+    Boas práticas de programação em Java
+    Noções de testes automatizados em Java
+    Maven
+    Banco de dados e SQL
+    Acesso a banco de dados em Java com JDBC e JPA
+    Noções do protocolo HTTP
+    Fundamentos de Java Web com Servlets
+    Desenvolvimento Web tradicional em Java com Spring MVC
+    Desenvolvimento de APIs Rest em Java com Spring Boot
+    Gestão de times e projetos com Scrum
