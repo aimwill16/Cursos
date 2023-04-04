@@ -93,9 +93,32 @@ final float NUMERO_PI = 3.14F;  // o F é necessário, pois demonstra que o núm
     (--) Operador de decremento. Retira um ao valor.
     (!) Operador de negação, usado em operadores booleanos.
 
--- S
+-- Ternário 
+
+     <expressão condicional> " ? " <caso seja true> " : " <caso seja false>
  
+O operador ternário "?:" é comumente utilizado como se fosse um if/else.
 
-- 
-- 
+//Exemplo 
 
+    int a, b;
+
+    a = 5;
+    b = 6;
+
+    /* EXEMPLO DE CONDICIONAL UTILIZANDO UMA ESTRUTURA IF/ELSE
+    if(a==b)
+    resultado = "verdadeiro";
+    else
+    resultado = "falso";
+    */
+
+    //MESMA CONDICIONAL, MAS DESSA VEZ, UTILIZANDO O OPERADOR CONDICIONAL TERNÁRIO
+    String resultado = (a==b) ? "verdadeiro" : "false";
+
+-- Operadores Lógicos
+
+    && - Operador de E
+    || - Operador de OU
+    
+Seguem a mesma lógíca das tabelas verdade.
