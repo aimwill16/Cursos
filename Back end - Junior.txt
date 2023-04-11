@@ -14,3 +14,18 @@ O conteúdo desse plano de estudos está dividido nas seguintes categorias de co
     Desenvolvimento Web tradicional em Java com Spring MVC
     Desenvolvimento de APIs Rest em Java com Spring Boot
     Gestão de times e projetos com Scrum
+    
+    
+# Vagas
+https://github.com/frontendbr/vagas/issues
+https://github.com/react-brasil/vagas/issues
+https://github.com/backend-br/vagas/issues
+https://github.com/dotnetdevbr/vagas/issues
+https://github.com/developersRJ/vagas/issues
+https://github.com/programadores-br/geral/issues
+https://www.nerdin.com.br/
+https://remotar.com.br/
+https://programathor.com.br/jobs
+https://github.com/devssa/onde-codar-em-salvador/issues
+https://br.indeed.com/
+https://www.apinfo.com/apinfo/
