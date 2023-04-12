@@ -10,10 +10,18 @@ public class exercicio5 {
 
         int resultado = 0;
         int multi = 0;
+
+        // feito do {} while() e for para comparacao.
+        /*
         do {
             resultado=numero*multi;
             System.out.println(""+numero+" X "+multi+" = " +resultado);
             multi++;
         }while(multi<=10);
+        */
+        for (multi=0;multi<=10;multi++) {
+            resultado=numero*multi;
+            System.out.println(""+numero+" X "+multi+" = " +resultado);
+        }
     }
 }
