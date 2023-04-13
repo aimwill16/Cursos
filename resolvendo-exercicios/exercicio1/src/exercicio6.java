@@ -10,11 +10,10 @@ public class exercicio6 {
 
         int resultado = 1;
 
-        for (int multi=fatorial; multi>0; multi--){
-            resultado = fatorial * multi;
-            System.out.println(fatorial + "! =" + resultado);
+        for (int i = fatorial; i >= 1; i--) {
+            resultado = resultado * i;
         }
-
+        System.out.println(+resultado);
     }
 }
 
