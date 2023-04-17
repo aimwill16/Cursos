@@ -1,4 +1,4 @@
-package DIO.sintaxe;
+package DIO.conceitos.sintaxe;
 
 public class tiposVariaveis {
     public static void main (String [] args){

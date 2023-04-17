@@ -1,4 +1,4 @@
-package DIO.sintaxe;
+package DIO.conceitos.sintaxe;
 
 public class Operadores {
 

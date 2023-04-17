@@ -1,4 +1,4 @@
-package DIO.arrays;
+package DIO.conceitos.arrays;
 
 import java.util.Random;
 
