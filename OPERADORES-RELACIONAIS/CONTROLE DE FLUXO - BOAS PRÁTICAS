@@ -1,8 +1,0 @@
-# Boas Práticas para o uso de operadores de fluxo (if/switch)
-
-- Switch é para valores exatos e if para expressões booleanas.
-- Evistar usar o default do switch para "cases genéricos"
-- Evitar o efeito "flecha"dos if's
-- Evitar muitos if's alinhados
-- Usar a boa prática da aula 2 para diminuir o tamanho do if (criar viariaveis intermediarias).
-

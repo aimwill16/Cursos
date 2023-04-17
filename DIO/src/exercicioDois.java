@@ -1,3 +1,5 @@
+package DIO.src;
+
 import java.util.Scanner;
 
 public class exercicioDois {
