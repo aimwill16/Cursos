@@ -1,4 +1,4 @@
-package DIO.sintaxeJava;
+package DIO.sintaxe;
 
 public class Operadores {
 
