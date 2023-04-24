@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7ed9e40-2643-419d-910c-33188551b820" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/DIO/ARRAYS/exNumerosAleatorios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIO/conceitos/pilhaLifo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIO/conceitos/pilhaLifo/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIO/conceitos/pilhaLifo/Pilha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIO/conceitos/generics/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIO/conceitos/no/No.java" beforeDir="false" afterPath="$PROJECT_DIR$/DIO/conceitos/no/No.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIO/conceitos/no/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/DIO/conceitos/no/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "openjdk-20",
-    "last_opened_file_path": "/home/will/CursosDeProgramacao",
+    "last_opened_file_path": "/home/will/CursosDeProgramacao/CursoDIO/Cursos/DIO",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -45,6 +50,21 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DIO" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Cursos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Cursos" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

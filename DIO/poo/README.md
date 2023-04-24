@@ -138,3 +138,8 @@ Carro.<método>;
 - Identidade de um objeto.
 - Representação númerica de um objeto.
 - Representação padrão de um objeto.
+- Tipos de classes: abstrata e concreta.
+- métodos abstratos.
+- caracteristicas das associacoes
+- palavras coringas: super, base, e super()
+- relacao entre classes e interface: extends e implements.
